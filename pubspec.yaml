@@ -1,0 +1,25 @@
+name: imc_calculator
+description: A new Flutter project.
+
+publish_to: 'none' # Remova esta linha se você for publicar para o pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  assets:
+    - assets/male.png
+    - assets/female.png
+
+  uses-material-design: true
