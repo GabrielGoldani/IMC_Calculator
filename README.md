@@ -1,6 +1,6 @@
 # imc_calculator
 
-A new Flutter project.
+A new college project.
 
 ## Getting Started
 
