@@ -306,7 +306,7 @@ class _CalculationScreenState extends State<CalculationScreen> {
                     Text(
                       'Your BMI: ${_bmi.toStringAsFixed(2)}',
                       style: TextStyle(fontSize: 24),
-                    ),
+                    ),//Text
                     Text(
                       'Category: $_bmiCategory',
                       style: TextStyle(fontSize: 18),
